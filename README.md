@@ -18,3 +18,7 @@ The Apache Tomcat Project is proud to announce the release of version 9.0.36 of 
 * Be more flexible with respect to the ordering of groups, roles and users in the tomcat-users.xml file
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+License
+This code is under the Apache License, Version 2.0, January 2004.
+
+See the NOTICE file for required notices and attributions.
